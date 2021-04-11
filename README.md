@@ -1,2 +1,2 @@
 # Mownit
-Computational methods in Science and Technology
+Computational methods in Science and Technology - laboratories
